@@ -1,0 +1,16 @@
+{
+  "codename": "BarlowBold32",
+  "ttf_path": "/assets/Barlow-Bold.ttf",
+  "bin_path": "/assets\\ui_font_BarlowBold32.bin",
+  "c_path": "/assets\\ui_font_BarlowBold32.c",
+  "cfg_path": "/assets\\ui_font_BarlowBold32.fcfg",
+  "size": 32,
+  "bpp": 2,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "0123456789%.",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
